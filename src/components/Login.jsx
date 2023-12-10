@@ -4,7 +4,8 @@ import { Link } from "react-router-dom"
 import '../login.css';
 import quepng from '../background/question.png';
 
-const baseUrl="http://localhost:8000";
+// const baseUrl="http://localhost:8000";
+const baseUrl="https://imagecaptioner-api.onrender.com";
 
 const Login = () => {
   const [user, setUser] = useState({
