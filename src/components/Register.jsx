@@ -4,7 +4,7 @@ import search from '../background/search1.png';
 import '../login.css'
 
 // const baseUrl="http://localhost:8000";
-const baseUrl="https://imagecaptioner-api.onrender.com";
+const baseUrl="https://imgcaptioner-api.onrender.com";
 
 
 const Register = () => {
